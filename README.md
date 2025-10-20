@@ -1,4 +1,4 @@
-![Char Drawer](https://github.com/user-attachments/assets/6b1d1751-89f6-40c9-8db8-465dc3b7e862)# Char-Drawer:
+# Char-Drawer:
 
 </br>
 
