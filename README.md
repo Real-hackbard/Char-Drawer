@@ -21,6 +21,13 @@ The entire ASCII character set is available and can be selected individually. Bi
 
 </br>
 
+### Editor Result Fontname (Ternminal):
+</br>
+
+![draw](https://github.com/user-attachments/assets/f85d3cb7-2270-40bb-a515-ad0efd0d3e1f)
+
+</br>
+
 ### Online Drawers:
 * https://asciiflow.com/#/
 * https://kirilllive.github.io/ASCII_Art_Paint/ascii_paint.html
