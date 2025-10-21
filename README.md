@@ -17,7 +17,7 @@ The entire ASCII character set is available and can be selected individually. Bi
 
 </br>
 
-![char drawer](https://github.com/user-attachments/assets/4dc73471-fc56-4719-953a-6bce39010dba)
+![char drawer](https://github.com/user-attachments/assets/4e80a263-04a9-4768-bb38-ed1a4cf113d7)
 
 </br>
 
