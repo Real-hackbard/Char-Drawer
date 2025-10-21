@@ -28,6 +28,8 @@ The entire ASCII character set is available and can be selected individually. Bi
 
 </br>
 
+ASCII an acronym for American Standard Code for Information Interchange, is a [character encoding](https://en.wikipedia.org/wiki/Character_encoding) standard for representing a particular set of 95 (English language focused) printable and 33 control characters – a total of 128 code points. The set of available punctuation had significant impact on the syntax of computer languages and text markup. ASCII hugely influenced the design of character sets used by modern computers; for example, the first 128 code points of [Unicode](https://en.wikipedia.org/wiki/Unicode) are the same as ASCII.
+
 ### Online Drawers:
 * https://asciiflow.com/#/
 * https://kirilllive.github.io/ASCII_Art_Paint/ascii_paint.html
