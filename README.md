@@ -1,9 +1,5 @@
 # Char-Drawer:
 
-
-# IN WORK!
-
-
 </br>
 
 ![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![10 Seattle](https://github.com/user-attachments/assets/c70b7f21-688a-4239-87c9-9a03a8ff25ab) ![10 1 Berlin](https://github.com/user-attachments/assets/bdcd48fc-9f09-4830-b82e-d38c20492362) ![10 2 Tokyo](https://github.com/user-attachments/assets/5bdb9f86-7f44-4f7e-aed2-dd08de170bd5) ![10 3 Rio](https://github.com/user-attachments/assets/e7d09817-54b6-4d71-a373-22ee179cd49c)   
@@ -21,6 +17,6 @@ The entire ASCII character set is available and can be selected individually. Bi
 
 </br>
 
-![Char Drawer](https://github.com/user-attachments/assets/46074b6e-ebcd-4ef4-b552-3d81f9c15f9b)
+![char drawer](https://github.com/user-attachments/assets/4dc73471-fc56-4719-953a-6bce39010dba)
 
 </br>
