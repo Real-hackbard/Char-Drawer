@@ -33,3 +33,14 @@ ASCII an acronym for American Standard Code for Information Interchange, is a [c
 ### Online Drawers:
 * https://asciiflow.com/#/
 * https://kirilllive.github.io/ASCII_Art_Paint/ascii_paint.html
+
+</br>
+
+### ASCii Chars:
+
+</br>
+
+![chars](https://github.com/user-attachments/assets/bee0b982-52e8-4685-a582-e2fbd163fe19)
+
+
+
